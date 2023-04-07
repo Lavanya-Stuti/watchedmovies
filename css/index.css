@@ -1,0 +1,93 @@
+html {
+  color: white;
+  display: flex-center;
+  min-height: 100vh;
+  background-color: #0b0b45;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.title {
+  align-items: center;
+  text-align: center;
+  font-size: 3.5em;
+  cursor: context-menu;
+}
+
+.title,
+.form {
+  text-align: center;
+  flex-direction: column;
+}
+
+#search {
+  border-color: #ffd301;
+  border-width: 2.5px;
+  border-radius: 10px;
+  padding: 0.5rem;
+}
+
+.card {
+  text-align: left;
+  margin: 2rem;
+  cursor: context-menu;
+}
+
+.name {
+  color: #ffd301;
+  padding-bottom: 2.5rem;
+}
+
+.synopsis {
+  font-size: larger;
+  padding-bottom: 2.5rem;
+  text-align: left;
+}
+
+.mpro {
+  padding-bottom: 0;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.fpro {
+  padding-bottom: 2.5rem;
+  font-size: 18px;
+}
+
+.actors {
+  color: #ffd301;
+  font-size: 18px;
+}
+
+.date {
+  font-size: 18px;
+  padding-bottom: 2.5rem;
+}
+
+.streaming {
+  color: #ffd301;
+  font-size: 18px;
+}
+
+.sites {
+  color: white;
+  font-size: 18px;
+}
+
+.time {
+  padding-top: 2.5rem;
+  font-size: 18px;
+}
+
+.poster {
+  padding-top: 1.5rem;
+  align-items: right;
+  text-align: right;
+  display: absolute;
+  text-align: right;
+  float: right;
+  max-width: 100%;
+  max-height: 500px;
+  margin: 2rem;
+  cursor: context-menu;
+}

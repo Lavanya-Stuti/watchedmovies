@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Om Shanti Om",
+    "synopsis": "Reincarnated 30 years after being killed in a suspicious on-set fire, a small-time actor is determined to punish the person who ignited the blaze.",
+    "mpro": "Shah Rukh Khan",
+    "fpro": "Deepika Padukone",
+    "date": "9 November 2007",
+    "streaming": "Netflix",
+    "time": "162 mins",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/41/Om_Shanti_Om.jpg"
+  },
+
+  {
+    "name": "j-hope IN THE BOX",
+    "synopsis": "For 200 days, the daily life of artist j-hope is captured. From his production of solo album “Jack in the Box” and listening party, this documentary follows him all the way to his debut on the stage of Lollapalooza.",
+    "mpro": "Jung Ho-Seok",
+    "fpro": "none",
+    "date": "17 February 2023",
+    "streaming": "Disney",
+    "time": "85 mins",
+    "poster": "https://whatsondisneyplus.com/wp-content/uploads/2023/02/FoCvHRzXkAANnI51-scaled.jpeg"
+  },
+
+  {
+    "name": "X",
+    "synopsis": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+    "fpro": "Mia Goth",
+    "mpro": "none",
+    "date": "18 March 2022",
+    "streaming": "Prime Video",
+    "time": "106 mins",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTJiMmE5YWItOWZjYS00YTg0LWE0MTYtMzg2ZTY4YjNkNDEzXkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_.jpg"
+  },
+
+  {
+    "name": "Everything Everywhere All at Once",
+    "synopsis": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what’s important to her by connecting with the lives she could have led in other universes.",
+    "mpro": "Ke Huy Quan",
+    "fpro": "Michelle Yeoh",
+    "date": "13 May 2022",
+    "streaming": "none",
+    "time": "140 mins",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_FMjpg_UX1000_.jpg"
+  },
+
+  {
+    "name": "Bullet Train",
+    "synopsis": "Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug’s latest mission puts him on a collision course with lethal adversaries from around the globe—all with connected, yet conflicting, objectives—on the world’s fastest train.",
+    "mpro": "Brad Pitt, Aaron Taylor-Johnson",
+    "fpro": "Joey King",
+    "date": "5 August 2022",
+    "streaming": "none",
+    "time": "126 mins",
+    "poster": "https://www.sonypictures.co.uk/sites/unitedkingdom/files/2022-10/DP_6721237_BULLET%20TRAIN_2000x3000_English%20%28US%29_1333x2000_thumbnail%20%281%29.jpg"
+  }
+]
