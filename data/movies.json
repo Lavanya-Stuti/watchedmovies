@@ -72,5 +72,16 @@
     "streaming": "none",
     "time": "128 mins",
     "poster": "https://i.ebayimg.com/images/g/ivAAAOSw-nRb4yQD/s-l1600.jpg"
+  },
+
+  {
+    "name": "Midsommar",
+    "synopsis": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+    "mpro": "Jack Reynor",
+    "fpro": "Florence Pugh",
+    "date": "3 July 2019",
+    "streaming": "Netflix",
+    "time": "147 mins",
+    "poster": "https://i.pinimg.com/236x/a8/8d/43/a88d431574154f9c246a1daa8eae5b88.jpg"
   }
 ]
