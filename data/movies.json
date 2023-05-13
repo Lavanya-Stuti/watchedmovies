@@ -83,5 +83,25 @@
     "streaming": "Netflix",
     "time": "147 mins",
     "poster": "https://i.pinimg.com/236x/a8/8d/43/a88d431574154f9c246a1daa8eae5b88.jpg"
+  },
+  {
+    "name": "The Jane Austen Book Club",
+    "synopsis": "Six Californians start a club to discuss the works of Jane Austen. As they delve into Austen’s literature, the club members find themselves dealing with life experiences that parallel the themes of the books they are reading.",
+    "mpro": "Hugh Dancy",
+    "fpro": "Kathy Baker, Maria Bello, Emily Blunt, Amy Brenneman, and Maggie Grace",
+    "date": "21 September 2007",
+    "streaming": "none",
+    "time": "106 mins",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTO5sXn3M-46zuQtAT3UvnpBZ5RNjnFu3V5g&usqp=CAU"
+  },
+  {
+    "name": "The Princess Bride",
+    "synopsis": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can’t stop these true lovebirds from triumphing.",
+    "mpro": "Cary Elwes",
+    "fpro": "Robin Wright",
+    "date": "9 October 1987",
+    "streaming": "none",
+    "time": "99 mins",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSF1bYaFV8ECE-bGh6T7GCqdt6B3wNKSk3bQ&usqp=CAU"
   }
 ]
