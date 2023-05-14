@@ -14,6 +14,10 @@ html {
   color: #ffd301;
 }
 
+.names > p > span {
+  color: white;
+}
+
 .back-btn {
   align-items: center;
   text-align: center;
